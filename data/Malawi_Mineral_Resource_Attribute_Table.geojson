@@ -1,0 +1,1815 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.195,
+          -9.533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "1",
+        "Record_ID": "MW-MIN-001",
+        "District": "Chitipa",
+        "Mineral_Type": "Dimension Stone",
+        "Location": "Chitipa (Ilomba hill)",
+        "Latitude": "-9.533",
+        "Longitude": "33.195",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-9.533,33.195",
+        "_qgis_class_val": "Dimension Stone",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d20e3c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat3.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.27,
+          -9.703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "2",
+        "Record_ID": "MW-MIN-002",
+        "District": "Chitipa",
+        "Mineral_Type": "Gemstones",
+        "Location": "Pegmatites in Chitipa",
+        "Latitude": "-9.703",
+        "Longitude": "33.27",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-9.703,33.27",
+        "_qgis_class_val": "Gemstones",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#0dddad",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat4.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.683,
+          -9.966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "3",
+        "Record_ID": "MW-MIN-003",
+        "District": "Karonga",
+        "Mineral_Type": "Uranium",
+        "Location": "Kayelekera-Karonga",
+        "Latitude": "-9.966",
+        "Longitude": "33.683",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-9.966,33.683",
+        "_qgis_class_val": "Uranium",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#88ebb7",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat17.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.816,
+          -9.643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "4",
+        "Record_ID": "MW-MIN-004",
+        "District": "Karonga",
+        "Mineral_Type": "Coal",
+        "Location": "Ngana-Karonga",
+        "Latitude": "-9.643",
+        "Longitude": "33.816",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-9.643,33.816",
+        "_qgis_class_val": "Coal",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#cd906d",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.155,
+          -10.716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "5",
+        "Record_ID": "MW-MIN-005",
+        "District": "Rumphi",
+        "Mineral_Type": "Coal",
+        "Location": "Mchenga-Rumphi",
+        "Latitude": "-10.716",
+        "Longitude": "34.155",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-10.716,34.155",
+        "_qgis_class_val": "Coal",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#cd906d",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.857,
+          -11.018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "6",
+        "Record_ID": "MW-MIN-006",
+        "District": "Rumphi",
+        "Mineral_Type": "Gemstones",
+        "Location": "Pegmatites in Rumphi",
+        "Latitude": "-11.018",
+        "Longitude": "33.857",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-11.018,33.857",
+        "_qgis_class_val": "Gemstones",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#0dddad",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat4.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.6,
+          -11.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "7",
+        "Record_ID": "MW-MIN-007",
+        "District": "Mzimba",
+        "Mineral_Type": "Dimension Stone",
+        "Location": "Mzimba",
+        "Latitude": "-11.9",
+        "Longitude": "33.6",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-11.9,33.6",
+        "_qgis_class_val": "Dimension Stone",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d20e3c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat3.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.983,
+          -11.428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "8",
+        "Record_ID": "MW-MIN-008",
+        "District": "Mzimba",
+        "Mineral_Type": "Niobium/Tantalum",
+        "Location": "Kanyika - Mzimba",
+        "Latitude": "-11.428",
+        "Longitude": "33.983",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-11.428,33.983",
+        "_qgis_class_val": "Niobium/Tantalum",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#4417cb",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat9.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.664,
+          -11.846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "9",
+        "Record_ID": "MW-MIN-009",
+        "District": "Mzimba",
+        "Mineral_Type": "Gemstones",
+        "Location": "Pegmatites in Mzimba",
+        "Latitude": "-11.846",
+        "Longitude": "33.664",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-11.846,33.664",
+        "_qgis_class_val": "Gemstones",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#0dddad",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat4.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.296,
+          -12.925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "10",
+        "Record_ID": "MW-MIN-010",
+        "District": "Nkhotakota",
+        "Mineral_Type": "Titanium and Heavy Mineral Sands (HMS)",
+        "Location": "Nkhotakota",
+        "Latitude": "-12.925",
+        "Longitude": "34.296",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-12.925,34.296",
+        "_qgis_class_val": "Titanium and Heavy Mineral Sands (HMS)",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#cc34b3",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat16.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.516,
+          -13.993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "11",
+        "Record_ID": "MW-MIN-011",
+        "District": "Salima",
+        "Mineral_Type": "Titanium and Heavy Mineral Sands (HMS)",
+        "Location": "Salima (Chipoka)",
+        "Latitude": "-13.993",
+        "Longitude": "34.516",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.993,34.516",
+        "_qgis_class_val": "Titanium and Heavy Mineral Sands (HMS)",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#cc34b3",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat16.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.458,
+          -13.78
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "12",
+        "Record_ID": "MW-MIN-012",
+        "District": "Salima",
+        "Mineral_Type": "Dimension Stone",
+        "Location": "Salima",
+        "Latitude": "-13.78",
+        "Longitude": "34.458",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.78,34.458",
+        "_qgis_class_val": "Dimension Stone",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d20e3c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat3.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.483,
+          -13.033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "13",
+        "Record_ID": "MW-MIN-013",
+        "District": "Kasungu",
+        "Mineral_Type": "Niobium/Tantalum",
+        "Location": "Kasungu",
+        "Latitude": "-13.033",
+        "Longitude": "33.483",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.033,33.483",
+        "_qgis_class_val": "Niobium/Tantalum",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#4417cb",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat9.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.633,
+          -13.217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "14",
+        "Record_ID": "MW-MIN-014",
+        "District": "Kasungu",
+        "Mineral_Type": "Limestone/Marl",
+        "Location": "Chikoa-Kasungu",
+        "Latitude": "-13.217",
+        "Longitude": "33.633",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.217,33.633",
+        "_qgis_class_val": "Limestone/Marl",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d2b272",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat8.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.504,
+          -13.226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "15",
+        "Record_ID": "MW-MIN-015",
+        "District": "Kasungu",
+        "Mineral_Type": "Dimension Stone",
+        "Location": "Kasungu",
+        "Latitude": "-13.226",
+        "Longitude": "33.504",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.226,33.504",
+        "_qgis_class_val": "Dimension Stone",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d20e3c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat3.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.937,
+          -13.653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "16",
+        "Record_ID": "MW-MIN-016",
+        "District": "Dowa",
+        "Mineral_Type": "Gypsum",
+        "Location": "Dowa",
+        "Latitude": "-13.653",
+        "Longitude": "33.937",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.653,33.937",
+        "_qgis_class_val": "Gypsum",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d119ed",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat7.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.62,
+          -13.34
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "17",
+        "Record_ID": "MW-MIN-017",
+        "District": "Dowa",
+        "Mineral_Type": "Graphite",
+        "Location": "Katengeza-Dowa",
+        "Latitude": "-13.34",
+        "Longitude": "33.62",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.34,33.62",
+        "_qgis_class_val": "Graphite",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#e77169",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat6.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.472,
+          -13.633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "18",
+        "Record_ID": "MW-MIN-018",
+        "District": "Dowa",
+        "Mineral_Type": "Pyrite",
+        "Location": "Chisepo-Dowa",
+        "Latitude": "-13.633",
+        "Longitude": "33.472",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.633,33.472",
+        "_qgis_class_val": "Pyrite",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#25c0cb",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat11.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          32.9,
+          -13.8
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "19",
+        "Record_ID": "MW-MIN-019",
+        "District": "Mchinji",
+        "Mineral_Type": "Dimension Stone",
+        "Location": "Mchinji",
+        "Latitude": "-13.8",
+        "Longitude": "32.9",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.8,32.9",
+        "_qgis_class_val": "Dimension Stone",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d20e3c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat3.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.067,
+          -13.967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "20",
+        "Record_ID": "MW-MIN-020",
+        "District": "Mchinji",
+        "Mineral_Type": "Glass Sands",
+        "Location": "Mchinji dambos",
+        "Latitude": "-13.967",
+        "Longitude": "33.067",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.967,33.067",
+        "_qgis_class_val": "Glass Sands",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#50e139",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat5.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.333,
+          -14.377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "21",
+        "Record_ID": "MW-MIN-021",
+        "District": "Dedza",
+        "Mineral_Type": "Dimension Stone",
+        "Location": "Dedza",
+        "Latitude": "-14.377",
+        "Longitude": "34.333",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-14.377,34.333",
+        "_qgis_class_val": "Dimension Stone",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d20e3c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat3.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.64,
+          -14.169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "22",
+        "Record_ID": "MW-MIN-022",
+        "District": "Lilongwe",
+        "Mineral_Type": "Pyrite",
+        "Location": "Malingunde - Lilongwe",
+        "Latitude": "-14.169",
+        "Longitude": "33.64",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-14.169,33.64",
+        "_qgis_class_val": "Pyrite",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#25c0cb",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat11.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.375,
+          -13.773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "23",
+        "Record_ID": "MW-MIN-023",
+        "District": "Lilongwe",
+        "Mineral_Type": "Rutile",
+        "Location": "Kasiya-Lilongwe and heavy mineral sands along Lake Malawi",
+        "Latitude": "-13.773",
+        "Longitude": "33.375",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.773,33.375",
+        "_qgis_class_val": "Rutile",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#427fef",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat14.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          33.783,
+          -13.983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "24",
+        "Record_ID": "MW-MIN-024",
+        "District": "Lilongwe",
+        "Mineral_Type": "Gypsum",
+        "Location": "Lilongwe",
+        "Latitude": "-13.983",
+        "Longitude": "33.783",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-13.983,33.783",
+        "_qgis_class_val": "Gypsum",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d119ed",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat7.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.635,
+          -14.84
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "25",
+        "Record_ID": "MW-MIN-025",
+        "District": "Ntcheu",
+        "Mineral_Type": "Rare Earth",
+        "Location": "Ntcheu",
+        "Latitude": "-14.84",
+        "Longitude": "34.635",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-14.84,34.635",
+        "_qgis_class_val": "Rare Earth",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#9fca28",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat12.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.645,
+          -14.82
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "26",
+        "Record_ID": "MW-MIN-026",
+        "District": "Ntcheu",
+        "Mineral_Type": "Gemstones",
+        "Location": "Ntcheu",
+        "Latitude": "-14.82",
+        "Longitude": "34.645",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-14.82,34.645",
+        "_qgis_class_val": "Gemstones",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#0dddad",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat4.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.629,
+          -14.812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "27",
+        "Record_ID": "MW-MIN-027",
+        "District": "Ntcheu",
+        "Mineral_Type": "Corundum",
+        "Location": " Chimwadzulu-Ntcheu   ",
+        "Latitude": "-14.812",
+        "Longitude": "34.629",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-14.812,34.629",
+        "_qgis_class_val": "Corundum",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1089ca",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.916,
+          -14.082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "28",
+        "Record_ID": "MW-MIN-028",
+        "District": "Mangochi",
+        "Mineral_Type": "Dimension Stone",
+        "Location": "Mangochi",
+        "Latitude": "-14.082",
+        "Longitude": "34.916",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-14.082,34.916",
+        "_qgis_class_val": "Dimension Stone",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d20e3c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat3.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          35.264,
+          -14.478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "29",
+        "Record_ID": "MW-MIN-029",
+        "District": "Mangochi",
+        "Mineral_Type": "Titanium and Heavy Mineral Sands (HMS)",
+        "Location": "Mangochi",
+        "Latitude": "-14.478",
+        "Longitude": "35.264",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-14.478,35.264",
+        "_qgis_class_val": "Titanium and Heavy Mineral Sands (HMS)",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#cc34b3",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat16.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.955,
+          -14.979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "30",
+        "Record_ID": "MW-MIN-030",
+        "District": "Balaka",
+        "Mineral_Type": "Rare Earth",
+        "Location": "Balaka",
+        "Latitude": "-14.979",
+        "Longitude": "34.955",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-14.979,34.955",
+        "_qgis_class_val": "Rare Earth",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#9fca28",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat12.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          35.033,
+          -15.033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "31",
+        "Record_ID": "MW-MIN-031",
+        "District": "Balaka",
+        "Mineral_Type": "Limestone/Marl",
+        "Location": "Chenkumbi \ufffd Balaka",
+        "Latitude": "-15.033",
+        "Longitude": "35.033",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-15.033,35.033",
+        "_qgis_class_val": "Limestone/Marl",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d2b272",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat8.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.91,
+          -15.127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "32",
+        "Record_ID": "MW-MIN-032",
+        "District": "Balaka",
+        "Mineral_Type": "Rare Earth Elements (Monazite / Strontianite)",
+        "Location": "Kangankunde, Balaka",
+        "Latitude": "-15.127",
+        "Longitude": "34.91",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-15.127,34.91",
+        "_qgis_class_val": "Rare Earth Elements (Monazite / Strontianite)",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d97cae",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat13.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.449,
+          -15.687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "33",
+        "Record_ID": "MW-MIN-033",
+        "District": "Mwanza",
+        "Mineral_Type": "Corundum",
+        "Location": "Thambani Mwanza",
+        "Latitude": "-15.687",
+        "Longitude": "34.449",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-15.687,34.449",
+        "_qgis_class_val": "Corundum",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1089ca",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.658,
+          -15.737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "34",
+        "Record_ID": "MW-MIN-034",
+        "District": "Mwanza",
+        "Mineral_Type": "Vermiculite",
+        "Location": "Kapirikamodzi and Feremu Mwanza",
+        "Latitude": "-15.737",
+        "Longitude": "34.658",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-15.737,34.658",
+        "_qgis_class_val": "Vermiculite",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#8719e0",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat18.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          35.283,
+          -15.283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "35",
+        "Record_ID": "MW-MIN-035",
+        "District": "Zomba                                                      ",
+        "Mineral_Type": "Bauxite",
+        "Location": "Zomba Mountain",
+        "Latitude": "-15.283",
+        "Longitude": "35.283",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-15.283,35.283",
+        "_qgis_class_val": "Bauxite",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#7ddc8d",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          35.318,
+          -15.385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "36",
+        "Record_ID": "MW-MIN-036",
+        "District": "Zomba                                                      ",
+        "Mineral_Type": "Titanium and Heavy Mineral Sands (HMS)                                               ",
+        "Location": "Zomba",
+        "Latitude": "-15.385",
+        "Longitude": "35.318",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-15.385,35.318",
+        "_qgis_class_val": "Titanium and Heavy Mineral Sands (HMS)",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#cc34b3",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat16.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          35.366,
+          -15.378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "37",
+        "Record_ID": "MW-MIN-037",
+        "District": "Zomba                                                      ",
+        "Mineral_Type": "Glass Sands",
+        "Location": "Zomba",
+        "Latitude": "-15.378",
+        "Longitude": "35.366",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-15.378,35.366",
+        "_qgis_class_val": "Glass Sands",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#50e139",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat5.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          35.814,
+          -15.533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "38",
+        "Record_ID": "MW-MIN-038",
+        "District": "Phalombe",
+        "Mineral_Type": "Phosphate/Apatite",
+        "Location": "Tundulu-Phalombe",
+        "Latitude": "-15.533",
+        "Longitude": "35.814",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-15.533,35.814",
+        "_qgis_class_val": "Phosphate/Apatite",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#7cec26",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat10.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          35.653,
+          -15.806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "39",
+        "Record_ID": "MW-MIN-039",
+        "District": "Phalombe",
+        "Mineral_Type": "Rare Earth",
+        "Location": "Phalombe",
+        "Latitude": "-15.806",
+        "Longitude": "35.653",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-15.806,35.653",
+        "_qgis_class_val": "Rare Earth",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#9fca28",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat12.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          34.8,
+          -16.033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "40",
+        "Record_ID": "MW-MIN-040",
+        "District": "Chikwawa",
+        "Mineral_Type": "Gemstones",
+        "Location": "Pegmatites in Chikwawa",
+        "Latitude": "-16.033",
+        "Longitude": "34.8",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-16.033,34.8",
+        "_qgis_class_val": "Gemstones",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#0dddad",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat4.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          35.5,
+          -16.033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "41",
+        "Record_ID": "MW-MIN-041",
+        "District": "Mulanje",
+        "Mineral_Type": "Rare Earth",
+        "Location": "Mulanje",
+        "Latitude": "-16.033",
+        "Longitude": "35.5",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-16.033,35.5",
+        "_qgis_class_val": "Rare Earth",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#9fca28",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat12.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          35.594,
+          -15.95
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "42",
+        "Record_ID": "MW-MIN-042",
+        "District": "Mulanje",
+        "Mineral_Type": "Bauxite",
+        "Location": "Mulanje Mountain",
+        "Latitude": "-15.95",
+        "Longitude": "35.594",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-15.95,35.594",
+        "_qgis_class_val": "Bauxite",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#7ddc8d",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          35.267,
+          -16.917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "43",
+        "Record_ID": "MW-MIN-043",
+        "District": "Nsanje",
+        "Mineral_Type": "Gemstones",
+        "Location": "Nsanje",
+        "Latitude": "-16.917",
+        "Longitude": "35.267",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-16.917,35.267",
+        "_qgis_class_val": "Gemstones",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#0dddad",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat4.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          35.03,
+          -16.676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "44",
+        "Record_ID": "MW-MIN-044",
+        "District": "Nsanje",
+        "Mineral_Type": "Coal",
+        "Location": "Mwabvi-Nsanje",
+        "Latitude": "-16.676",
+        "Longitude": "35.03",
+        "Google_Maps": "https://www.google.com/maps/search/?api=1&query=-16.676,35.03",
+        "_qgis_class_val": "Coal",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#cd906d",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_Malawi_Mineral_Resource_Attribute_Table_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
